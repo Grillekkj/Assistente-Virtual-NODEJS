@@ -9,7 +9,5 @@
 ### Refatoração do Código.
 - Remover constantes não utilizadas e partes redundantes do código.
 - Reorganizar o código para melhor legibilidade e manutenibilidade.
-
-### Adicionar a função de botões e listas.
-
-### Aplicar Princípios SOLID.
+- Adicionar a função de botões e listas.
+- Aplicar Princípios SOLID.
