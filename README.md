@@ -6,8 +6,8 @@ Desenvolvido para aprimorar o atendimento em lojas, este bot utiliza Node.js em 
 `git clone https://github.com/Grillekkj/Assistente-Virtual-NODEJS.git`
 
 - Navegue até o diretório e instale as dependências
-`cd Assistente-Virtual-NODEJS
-npm install`
+`cd Assistente-Virtual-NODEJS`
+`npm install`
 
 - Inicie o bot
 `npm start`
