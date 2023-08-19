@@ -23,15 +23,17 @@ Bem-vindo ao Assistente Virtual NODEJS! Este é um assistente virtual construíd
 1. **Clone este repositório**
   ```bash
   git clone https://github.com/Grillekkj/Assistente-Virtual-NODEJS.git
-```
+  ```
+
 2. **Navegue até a pasta do projeto e instale as dependências**
-```bash
+  ```bash
   cd Assistente-Virtual-NODEJS
-```
-```bash
+  ```
+  ```bash
   npm install
-```
+  ```
+
 3. **Inicie o assistente**
-```bash
+  ```bash
   npm start
-```
+  ```
